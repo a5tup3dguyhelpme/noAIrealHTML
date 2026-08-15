@@ -1,6 +1,28 @@
 .textoasibienaca{
-color: white; font-family: georgia; 
+color: #34d346; font-family: monospace;
 }
 body{
 background-color: black;
+
+}
+.segundotexto{
+    color: #34d346; font-family: monospace;
+}
+.tercertexto{
+    color: #34d346; font-family: monospace;
+}
+.cuartotexto{
+    color: #34d346; font-family: monospace;
+}
+.quintotexto{
+    color: #34d346; font-family: monospace;
+}
+.sextotexto{
+    color: #34d346; font-family: monospace;
+}
+.cuentagithub{
+    color: #34d346; font-family: monospace; background-color: black;
+}
+.imagenprrona{
+    border-radius: 0 8px 0 8px;
 }
