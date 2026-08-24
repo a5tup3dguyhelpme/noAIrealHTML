@@ -1,12 +1,13 @@
 .textoasibienaca{
 color: #34d346; font-family: monospace;
+    text-shadow: 0 0 5px #34d346, 0 0 10px #34d346, 0 0 20px #34d346, 0 0 40px #34d346
 }
 body{
 background-color: black;
 text-align: center;
 }
 .segundotexto{
-    color: #34d346; font-family: monospace;
+    color: #34d346; font-family: monospace; 
 }
 .tercertexto{
     color: #34d346; font-family: monospace;
@@ -22,7 +23,8 @@ text-align: center;
 }
 .cuentagithub{
     color: #34d346; font-family: monospace; background-color: black;
-}
+border: 1px #34d346 solid; text-shadow: 0 0 5px #34d346, 0 0 10px #34d346, 0 0 20px #34d346, 0 0 40px #34d346;
+} 
 .imagenprrona{
     border-radius: 0 40px 0 40px;
     height: 200px; width: 200px;
