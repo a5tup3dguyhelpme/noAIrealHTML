@@ -15,9 +15,9 @@ body{
     margin: 0;
     text-align: center;
     display: flex; 
-    justify-content: center; 
-    align-items: center; 
-flex-direction: column;    
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    
 }
 .segundotexto{
     color: #34d346; font-family: monospace; 
