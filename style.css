@@ -3,8 +3,20 @@ color: #34d346; font-family: monospace;
     text-shadow: 0 0 5px #34d346, 0 0 10px #34d346, 0 0 20px #34d346, 0 0 40px #34d346
 }
 body{
-background-color: black;
-text-align: center;
+  background-image:  url(https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif);
+  background-blend-mode: multiply;
+
+  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;     
 }
 .segundotexto{
     color: #34d346; font-family: monospace; 
